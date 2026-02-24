@@ -5,3 +5,6 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-blue?style=flat&logo=jetpackcompose&logoColor=white)
 ![CI](https://img.shields.io/badge/GitHub%20Actions-gray?style=flat&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white)
+
+
+Senior Android Developer with +7 years of experience and knowledge in other technological areas
