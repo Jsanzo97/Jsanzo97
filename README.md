@@ -17,6 +17,7 @@
 ### 🚀 Featured Projects
 * **[Movies](https://github.com/Jsanzo97/Movies)**: A robust Android application showcasing **Clean Architecture**, MVVM, and the latest Jetpack components for movie discovery.
 * **[QrGenerator-KMP](https://github.com/Jsanzo97/QrGenerator-KMP)**: A cross-platform tool built with **Kotlin Multiplatform (KMP)** and Compose Multiplatform to generate QR codes for Android and iOS.
+* **[Raspberry Dashboard](https://github.com/Jsanzo97/RaspberryDashboard)** A modern, full-featured system dashboard built for Raspberry Pi with the official touchscreen. Displays real-time system metrics and environmental data.
 * **[TFM Reactive Programming](https://github.com/Jsanzo97/TFM_Reactive_Programming)**: Research and implementation focused on **Reactive Programming** patterns and their efficiency in modern software ecosystems.
 
 ### 🛠️ Technical Focus
