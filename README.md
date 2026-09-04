@@ -5,7 +5,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white)
 
 **Senior Android Developer** with 7+ years of experience building high-scale, production-ready mobile applications, open-source libraries, and exploring Kotlin Multiplatform solutions.
 
