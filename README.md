@@ -28,4 +28,4 @@ recomposition), published on Maven Central (`io.github.jsanzo97`).
 * **Firebase Ecosystem:** Remote Config, App Distribution, Analytics, Cloud Messaging, Crashlytics.
 
 ---
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jorgesanzo) | [Email](mailto:jorgesanzo21@gmail.com)
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jorge-jsh) | [Email](mailto:jorgesanzo21@gmail.com)
