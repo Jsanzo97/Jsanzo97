@@ -7,10 +7,11 @@
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase&logoColor=white)
 
-**Senior Android Developer** with 7+ years of experience building high-scale, production-ready mobile applications, open-source libraries, and exploring Kotlin Multiplatform solutions.
+**Senior Android Developer** with 8+ years of experience building high-scale, production-ready mobile applications, open-source libraries, and exploring Kotlin Multiplatform solutions.
 
 ### 🚀 Featured Projects
-* **[WickKit](https://github.com/Jsanzo97/WickKit)**: Open-source developer toolkit and Gradle convention plugins published on Maven Central (`io.github.jsanzo97`).
+* **[WickKit](https://github.com/Jsanzo97/WickKit)**: Android debugging SDK with an on-device overlay (logs, network, database, performance, Compose
+recomposition), published on Maven Central (`io.github.jsanzo97`).
 * **[QrGenerator-KMP](https://github.com/Jsanzo97/QrGenerator-KMP)**: Cross-platform QR generator built with **Kotlin Multiplatform (KMP)** and Compose Multiplatform for Android & iOS.
 * **[Movies](https://github.com/Jsanzo97/Movies)**: Android showcase app demonstrating **Clean Architecture**, MVI/MVVM, and Jetpack Compose.
 * **[Raspberry Dashboard](https://github.com/Jsanzo97/RaspberryDashboard)**: System dashboard built for Raspberry Pi with touchscreen UI, real-time metrics, and environmental data.
